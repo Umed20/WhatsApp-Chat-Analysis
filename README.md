@@ -19,7 +19,7 @@ https://chat-analysis-26ay.onrender.com/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/whatsapp-chat-analysis.git
+   git clone https://github.com/Umed20/whatsapp-chat-analysis.git
    cd whatsapp-chat-analysis
 
 2. **Install Dependencies:**
